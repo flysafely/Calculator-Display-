@@ -1,0 +1,125 @@
+[Root]
+Most Recent Package=申皇集装箱计算器
+
+
+[Package|申皇集装箱计算器|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrator\桌面\22
+
+[Package|申皇集装箱计算器|Configure DAO ISAMs]
+Applicable=No
+
+[Package|申皇集装箱计算器|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|申皇集装箱计算器|Files Found]
+
+[Package|申皇集装箱计算器|Files Released]
+
+[Package|申皇集装箱计算器|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+
+[Package|申皇集装箱计算器|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+
+[Package|申皇集装箱计算器|Files Added]
+
+[Package|申皇集装箱计算器|Files Removed]
+
+[Package|申皇集装箱计算器|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHS.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2CHS.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCCHS.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSHFGCHS.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Administrator\桌面\申皇集装箱装箱计算演示包\集装箱装箱计算\集装箱计算器.exe=Yes
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|申皇集装箱计算器|Configure Registry Files]
+Applicable=No
+
+[Package|申皇集装箱计算器|Configure Remote Servers]
+Applicable=No
+
+[Package|申皇集装箱计算器|Install Locations]
+C:\Documents and Settings\Administrator\桌面\集装箱装箱计算\集装箱计算器.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHS.DLL=$(WinSysPath)
+D:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Administrator\桌面\申皇集装箱装箱计算演示包\集装箱装箱计算\集装箱计算器.exe=$(AppPath)
+D:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|申皇集装箱计算器|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrator\桌面\集装箱装箱计算\集装箱计算器.exe=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\Documents and Settings\Administrator\桌面\申皇集装箱装箱计算演示包\集装箱装箱计算\集装箱计算器.exe=Yes
+
+[Package|申皇集装箱计算器|Distribution]
+Type=single
+Size=
+Title=申皇集装箱计算器
+
+[Package|申皇集装箱计算器|IconGroups]
+Group0=申皇集装箱安装包
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|申皇集装箱计算器|申皇集装箱安装包]
+Icon1=集装箱计算器.exe
+Title1=申皇集装箱安装包
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|申皇集装箱计算器|Package]
+PackageFolder=C:\Documents and Settings\Administrator\桌面\22
+ProjectFolder=C:\Documents and Settings\Administrator\桌面\申皇集装箱装箱计算演示包\集装箱装箱计算
+ServerSideCab=
+File1=C:\Documents and Settings\Administrator\桌面\22\setup.exe
+File2=C:\Documents and Settings\Administrator\桌面\22\Setup.Lst
+File3=C:\Documents and Settings\Administrator\桌面\22\集装箱计算器.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

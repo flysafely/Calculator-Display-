@@ -1,0 +1,244 @@
+[Root]
+Most Recent Package=申皇集装箱计算器安装包
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|标准安装软件包 1|Files Added]
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\工程1.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.dll=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHS.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2CHS.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCCHS.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\工程1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.dll=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=$(AppPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\工程1.exe=No
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=No
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=工程1
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=工程1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|工程1]
+Icon1=工程1.EXE
+Title1=工程1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包
+ProjectFolder=C:\Documents and Settings\Administrator\桌面\新建文件夹1
+ServerSideCab=
+File1=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\setup.exe
+File2=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\Setup.Lst
+File3=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\工程1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|申皇集装箱计算器安装包|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包
+
+[Package|申皇集装箱计算器安装包|Configure DAO ISAMs]
+Applicable=No
+
+[Package|申皇集装箱计算器安装包|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|申皇集装箱计算器安装包|Files Found]
+
+[Package|申皇集装箱计算器安装包|Files Released]
+Book1.xls=
+
+[Package|申皇集装箱计算器安装包|Missing Dependency Information]
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=
+
+[Package|申皇集装箱计算器安装包|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|申皇集装箱计算器安装包|Files Added]
+book1.xls=
+
+[Package|申皇集装箱计算器安装包|Files Removed]
+
+[Package|申皇集装箱计算器安装包|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.dll=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHS.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSCC2CHS.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCCHS.DLL=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Administrator\桌面\集装箱装箱计算\集装箱计算器.exe=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSHFGCHS.DLL=Yes
+D:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|申皇集装箱计算器安装包|Configure Registry Files]
+Applicable=No
+
+[Package|申皇集装箱计算器安装包|Configure Remote Servers]
+Applicable=No
+
+[Package|申皇集装箱计算器安装包|Install Locations]
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\工程1.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.dll=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHS.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=$(AppPath)
+C:\Documents and Settings\Administrator\桌面\集装箱装箱计算\集装箱计算器.exe=$(AppPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHS.DLL=$(WinSysPath)
+D:\Program Files\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\Program Files\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|申皇集装箱计算器安装包|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\工程1.exe=No
+D:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=No
+C:\Documents and Settings\Administrator\桌面\新建文件夹1\Book1.xls=No
+C:\Documents and Settings\Administrator\桌面\集装箱装箱计算\集装箱计算器.exe=No
+C:\Program Files\Microsoft Office\OFFICE11\EXCEL.EXE=No
+
+[Package|申皇集装箱计算器安装包|Distribution]
+Type=single
+Size=
+Title=集装箱安装程序
+
+[Package|申皇集装箱计算器安装包|IconGroups]
+Group0=工程1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|申皇集装箱计算器安装包|工程1]
+Icon1=工程1.EXE
+Title1=工程1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|申皇集装箱计算器安装包|Package]
+PackageFolder=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包
+ProjectFolder=C:\Documents and Settings\Administrator\桌面\集装箱装箱计算
+ServerSideCab=
+File1=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\setup.exe
+File2=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\Setup.Lst
+File3=C:\Documents and Settings\Administrator\桌面\新建文件夹1\包\集装箱计算器.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
